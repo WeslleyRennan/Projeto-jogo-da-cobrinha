@@ -1,0 +1,16 @@
+#box {
+  background-color: black;
+  width: 415px;
+  height: 415px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#stage{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
